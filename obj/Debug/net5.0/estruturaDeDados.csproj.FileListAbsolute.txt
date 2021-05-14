@@ -1,0 +1,15 @@
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/bin/Debug/net5.0/estruturaDeDados.deps.json
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/bin/Debug/net5.0/estruturaDeDados.runtimeconfig.json
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/bin/Debug/net5.0/estruturaDeDados.runtimeconfig.dev.json
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/bin/Debug/net5.0/estruturaDeDados.dll
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/bin/Debug/net5.0/ref/estruturaDeDados.dll
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/bin/Debug/net5.0/estruturaDeDados.pdb
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/obj/Debug/net5.0/estruturaDeDados.csprojAssemblyReference.cache
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/obj/Debug/net5.0/estruturaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/obj/Debug/net5.0/estruturaDeDados.AssemblyInfoInputs.cache
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/obj/Debug/net5.0/estruturaDeDados.AssemblyInfo.cs
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/obj/Debug/net5.0/estruturaDeDados.csproj.CoreCompileInputs.cache
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/obj/Debug/net5.0/estruturaDeDados.dll
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/obj/Debug/net5.0/ref/estruturaDeDados.dll
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/obj/Debug/net5.0/estruturaDeDados.pdb
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/obj/Debug/net5.0/estruturaDeDados.genruntimeconfig.cache
